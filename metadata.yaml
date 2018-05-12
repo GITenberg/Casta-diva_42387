@@ -1,0 +1,30 @@
+_repo: Casta-diva_42387
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42387-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rovetta, Gerolamo
+    birthdate: 1854
+    deathdate: 1910
+    gutenberg_agent_id: '3997'
+    url: http://www.gutenberg.org/2009/agents/3997
+    wikipedia: http://it.wikipedia.org/wiki/Gerolamo_Rovetta
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2013-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42387'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcc 'PQ'
+tableOfContents: Casta Diva -- Fernanda -- Canto di Montagna -- Il pranzo della Barcaccia
+  -- A rovescio! -- In extremis.
+title: Casta diva
+url: http://www.gutenberg.org/ebooks/42387
